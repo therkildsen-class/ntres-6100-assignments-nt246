@@ -4,7 +4,7 @@ This is a template repository for students in NTRES 6100. Through GitHub Classro
 
 #### Student:
 
-Please indicate if you are **taking this class for credit**:
+Please indicate if you are **auditing**.
 
 #### Instructors:
 
